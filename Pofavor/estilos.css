@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+@media (max-width: 575px) {
+div#Contenedor1{
+        margin: auto;
+        width: 50vw;
+        height: 84vw;
+        background-color: rgb(138, 151, 228);
+    }
+    div#Contenedor2{
+        margin: auto;
+        width: 90vw;
+        height: 95vw;
+        background-color: rgb(255, 255, 255);
+    }
+    div#Contenedor3{
+        margin: auto;
+        width: 50vw;
+        height: 20vw;
+        background-color: rgb(171, 230, 248);
+    }    
+    
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    div#Contenedor1{
+        margin: auto;
+        width: 25vw;
+        height: 80vw;
+        background-color: rgb(138, 151, 228);
+    }
+    div#Contenedor2{
+        margin: auto;
+        width: 50vw;
+        height: 60vw;
+        background-color: rgb(255, 255, 255);
+    }
+    div#Contenedor3{
+        margin: auto;
+        width: 60vw;
+        height: 18vw;
+        background-color: rgb(171, 230, 248);
+    }    
+    
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    div#Contenedor1{
+        margin: auto;
+        width: 15vw;
+        height: 70vw;
+        background-color: rgb(138, 151, 228);
+    }
+    div#Contenedor2{
+        margin: auto;
+        width: 35vw;
+        height: 50vw;
+        background-color: rgb(255, 255, 255);
+    }
+    div#Contenedor3{
+        margin: auto;
+        width: 15vw;
+        height: 70vw;
+        background-color: rgb(171, 230, 248);
+    }  
+}
+@media (min-width: 992px)  {
+    
+    div#Contenedor1{
+        margin: auto;
+        width: 15vw;
+        height: 50vw;
+        background-color: rgb(138, 151, 228);
+    }
+    div#Contenedor2{
+        margin: auto;
+        width: 35vw;
+        height: 50vw;
+        background-color: rgb(255, 255, 255);
+    }
+    div#Contenedor3{
+        margin: auto;
+        width: 15vw;
+        height: 50vw;
+        background-color: rgb(171, 230, 248);
+    }    
+    
+}
+
+
